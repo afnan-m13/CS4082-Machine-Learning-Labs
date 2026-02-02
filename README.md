@@ -1,2 +1,7 @@
-# CS4082-Machine-Learning-Labs
-Labs and practical exercises for CS4082 Machine Learning course
+# CS4082 – Machine Learning Labs
+
+This repository contains all lab work for the **CS4082 Machine Learning** course.
+
+## Structure
+
+- **Lab1:** Foundations of Machine Learning  
