@@ -7,4 +7,5 @@ This repository contains all lab work for the **CS4082 Machine Learning** course
 - **Lab1:** Foundations of Machine Learning
 - **Lab2:** Supervised Learning with Scikit-Learn
 - **Lab3:** Data Preprocessing & Feature Engineering
+- **Lab4:** Linear Regression & Its Variants
 
