@@ -1,6 +1,6 @@
 # CS4082 – Machine Learning Labs
 
-This repository contains all lab work for the Machine Learning** course.
+This repository contains all lab work for the **Machine Learning** course.
 
 ## Structure
 
