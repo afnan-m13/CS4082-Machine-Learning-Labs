@@ -1,7 +1,0 @@
-# Lab 6 – Machine Learning Models & Evaluation
-
-## Overview
-This lab focuses on building and evaluating machine learning models using scikit-learn. 
-We apply different classification and/or regression techniques, preprocess the data, and assess model
-performance using appropriate evaluation metrics. The goal is to understand how models learn from data 
-and how to compare their effectiveness.
