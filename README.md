@@ -8,4 +8,5 @@ This repository contains all lab work for the **Machine Learning** course.
 - **Lab 2:** Supervised Learning with Scikit-Learn
 - **Lab 3:** Data Preprocessing & Feature Engineering
 - **Lab 4:** Linear Regression & Its Variants
+- **Lab 6:** Machine Learning Pipline
 
